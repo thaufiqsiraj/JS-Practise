@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #1e201e;
+  color: #ecdfcc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  /* The element you want to center */
+  /* width: 200px; */
+  height: 100px;
+}
